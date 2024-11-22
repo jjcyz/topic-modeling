@@ -118,14 +118,6 @@ The analysis shows:
 3. Convergence behavior depends on K
 4. Training time increases with K
 
-## Contributing
-
-Feel free to submit issues and enhancement requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Based on the EM algorithm for mixture models
