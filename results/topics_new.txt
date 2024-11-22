@@ -1,0 +1,96 @@
+Topic Modeling Analysis Summary
+==============================
+
+Number of topics (K): 20
+Iterations until convergence: 99
+Total iterations including initial state: 100
+Final log likelihood: 1.406081e-12
+
+Topics and Coherence Scores:
+----------------------------
+
+Topic 1:
+Words: hello, test, hell, season, wanted, tell, thank, deleted, machines, shall
+Coherence: 0.0000
+
+Topic 2:
+Words: hello, test, hell, season, wanted, tell, thank, deleted, machines, shall
+Coherence: 0.0000
+
+Topic 3:
+Words: period, van, pit, play, power, win, second, john, boston, goal
+Coherence: 1.9800
+
+Topic 4:
+Words: lost, won, san, york, chicago, national, american, west, league, california
+Coherence: 3.7696
+
+Topic 5:
+Words: scsi, drive, ide, controller, bit, bus, drives, hard, mac, speed
+Coherence: 1.0496
+
+Topic 6:
+Words: edu, file, windows, does, software, program, don, com, available, mail
+Coherence: 0.2732
+
+Topic 7:
+Words: space, car, don, good, power, bike, does, make, way, years
+Coherence: 0.2662
+
+Topic 8:
+Words: hello, test, hell, season, wanted, tell, thank, deleted, machines, shall
+Coherence: 0.0000
+
+Topic 9:
+Words: hello, test, hell, season, wanted, tell, thank, machines, deleted, shall
+Coherence: 0.0000
+
+Topic 10:
+Words: hello, test, hell, season, wanted, tell, thank, deleted, machines, shall
+Coherence: 0.0000
+
+Topic 11:
+Words: people, don, god, did, good, does, right, way, make, believe
+Coherence: 0.2951
+
+Topic 12:
+Words: hello, test, hell, season, wanted, tell, thank, deleted, machines, shall
+Coherence: 0.0000
+
+Topic 13:
+Words: hello, test, hell, season, tell, wanted, thank, deleted, machines, shall
+Coherence: 0.0000
+
+Topic 14:
+Words: win, event, text, events, create, calls, following, fine, code, hear
+Coherence: 2.2097
+
+Topic 15:
+Words: air, key, keys, bhj, algorithm, door, chip, secret, clipper, net
+Coherence: 2.7028
+
+Topic 16:
+Words: hello, test, hell, season, tell, wanted, thank, deleted, machines, assume
+Coherence: 0.0000
+
+Topic 17:
+Words: pit, van, points, final, series, team, post, need, way, room
+Coherence: 6.2345
+
+Topic 18:
+Words: max, bhj, giz, air, end, parts, cut, file, van, tools
+Coherence: 24.9862
+
+Topic 19:
+Words: appears, dos, art, man, cover, copies, force, issue, launch, appear
+Coherence: 1.5570
+
+Topic 20:
+Words: hello, test, hell, season, wanted, tell, thank, deleted, machines, shall
+Coherence: 0.0000
+
+Summary Statistics:
+------------------
+Average coherence: 2.2662
+Coherence std dev: 5.4523
+Number of potential duplicate topics: 9

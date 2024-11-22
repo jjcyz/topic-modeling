@@ -1,0 +1,57 @@
+
+Top words for K=10:
+Uniqueness score: 7.40 unique words per topic
+
+Topic 1: drive, disk, drives, hard, controller, rom, card, floppy, supports, interface
+Topic 2: test, season, thank, deleted, ac, david, assume, drivers, hell, short
+Topic 3: ax, m, q, w, max, p, r, g, s, v
+Topic 4: x, s, t, use, windows, file, edu, like, dos, know
+Topic 5: s, t, people, don, just, think, god, like, know, time
+Topic 6: encryption, technology, chip, law, government, key, q, new, administration, protect
+Topic 7: pit, period, pp, van, la, c, play, power, g, win
+Topic 8: test, season, thank, deleted, ac, david, assume, drivers, hell, short
+Topic 9: scsi, s, mhz, bus, ide, bit, cpu, controller, speed, drive
+Topic 10: s, t, use, new, like, just, m, space, don, time
+
+Top words for K=15:
+Uniqueness score: 7.20 unique words per topic
+
+Topic 1: gm, s, st, john, vs, series, team, home, americans, cd
+Topic 2: ax, m, q, w, max, p, r, g, s, v
+Topic 3: test, season, thank, deleted, ac, assume, david, drivers, hell, short
+Topic 4: edu, com, lost, won, os, cs, comp, atheism, alt, s
+Topic 5: s, x, t, windows, edu, use, file, dos, available, ftp
+Topic 6: s, t, use, like, space, new, just, key, don, used
+Topic 7: jpeg, image, t, s, file, gif, color, images, format, use
+Topic 8: test, season, thank, deleted, ac, david, assume, hell, drivers, short
+Topic 9: appears, x, art, new, vs, man, cover, w, force, issue
+Topic 10: s, t, game, team, year, games, play, season, don, hockey
+Topic 11: s, t, god, people, don, think, jesus, just, does, know
+Topic 12: test, season, thank, deleted, ac, david, assume, drivers, hell, short
+Topic 13: x, s, drive, t, scsi, card, use, disk, like, hard
+Topic 14: test, season, thank, deleted, ac, assume, david, drivers, hell, short
+Topic 15: s, t, people, don, just, like, know, think, said, time
+
+Top words for K=20:
+Uniqueness score: 0.15 unique words per topic
+
+Topic 1: x, s, t, use, key, like, file, don, just, know
+Topic 2: test, season, thank, deleted, ac, david, assume, drivers, hell, short
+Topic 3: test, season, thank, deleted, ac, assume, david, drivers, hell, short
+Topic 4: test, season, thank, deleted, ac, assume, david, drivers, hell, short
+Topic 5: mhz, cpu, clock, speed, ms, card, problems, add, machines, t
+Topic 6: t, s, car, just, don, like, know, said, bike, m
+Topic 7: bike, method, test, season, thank, deleted, ac, assume, david, drivers
+Topic 8: test, season, thank, deleted, ac, david, assume, drivers, hell, short
+Topic 9: ax, m, q, w, max, p, r, g, v, s
+Topic 10: file, jpeg, image, t, s, gif, color, files, windows, use
+Topic 11: s, t, edu, windows, use, x, dos, drive, like, software
+Topic 12: gm, s, john, st, vs, series, team, home, americans, cd
+Topic 13: db, cs, al, bits, cx, gas, left, higher, lower, bit
+Topic 14: test, season, thank, deleted, ac, assume, david, drivers, hell, short
+Topic 15: s, t, people, new, like, year, time, just, don, game
+Topic 16: s, t, people, god, don, think, just, know, like, does
+Topic 17: test, season, thank, deleted, ac, assume, david, drivers, hell, short
+Topic 18: key, bit, chip, e, serial, u, k, number, n, enforcement
+Topic 19: picture, apple, paul, does, following, s, contact, little, record, sale
+Topic 20: pit, la, van, vs, win, scsi, s, games, team, mike

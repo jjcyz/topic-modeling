@@ -1,0 +1,211 @@
+Topic Modeling Analysis Summary (K=50)
+==============================
+
+Iterations until convergence: 73
+Final log likelihood: 1.289154e-12
+
+
+Topic 1:
+Words: sale, article, hell, thought, instead, talking, happened, short, mean, monitor
+Coherence: 0.0000
+
+Topic 2:
+Words: sale, article, hell, thought, instead, happened, talking, short, mean, monitor
+Coherence: 0.0000
+
+Topic 3:
+Words: period, play, power, second, series, special, driver, best, game, games
+Coherence: 2.0708
+
+Topic 4:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 5:
+Words: game, team, games, year, season, hockey, play, better, best, right
+Coherence: 0.4725
+
+Topic 6:
+Words: force, black, john, card, series, special, issue, free, book, team
+Coherence: 0.9009
+
+Topic 7:
+Words: drive, scsi, disk, hard, card, power, does, speed, problem, sale
+Coherence: 0.5146
+
+Topic 8:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 9:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 10:
+Words: sale, article, hell, thought, instead, talking, mean, happened, short, posted
+Coherence: 0.0000
+
+Topic 11:
+Words: card, drivers, driver, video, windows, does, monitor, mode, based, anybody
+Coherence: 0.5653
+
+Topic 12:
+Words: sale, article, hell, thought, happened, instead, talking, short, mean, posted
+Coherence: 0.0000
+
+Topic 13:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 14:
+Words: people, does, jesus, believe, bible, christ, christian, church, point, things
+Coherence: 0.3008
+
+Topic 15:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 16:
+Words: sale, article, hell, thought, instead, talking, happened, mean, short, posted
+Coherence: 0.0000
+
+Topic 17:
+Words: file, program, output, window, line, error, info, include, does, problem
+Coherence: 0.5140
+
+Topic 18:
+Words: sale, article, hell, thought, instead, talking, happened, mean, posted, monitor
+Coherence: 0.0000
+
+Topic 19:
+Words: sale, article, hell, thought, instead, happened, talking, mean, posted, short
+Coherence: 0.0000
+
+Topic 20:
+Words: sale, article, hell, thought, instead, happened, talking, short, mean, posted
+Coherence: 0.0000
+
+Topic 21:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 22:
+Words: offer, sale, best, open, email, sell, great, mail, interested, drive
+Coherence: 0.4454
+
+Topic 23:
+Words: sale, article, hell, thought, instead, talking, happened, short, mean, monitor
+Coherence: 0.0000
+
+Topic 24:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 25:
+Words: sale, article, hell, thought, happened, instead, talking, mean, monitor, short
+Coherence: 0.0000
+
+Topic 26:
+Words: sale, article, hell, thought, instead, talking, happened, mean, short, monitor
+Coherence: 0.0000
+
+Topic 27:
+Words: window, position, user, place, application, size, right, display, program, windows
+Coherence: 0.6969
+
+Topic 28:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 29:
+Words: sale, article, hell, thought, instead, talking, happened, short, posted, mean
+Coherence: 0.0000
+
+Topic 30:
+Words: people, space, years, armenian, year, armenians, didn, problem, turkish, children
+Coherence: 0.2315
+
+Topic 31:
+Words: sale, article, hell, thought, instead, talking, happened, mean, posted, short
+Coherence: 0.0000
+
+Topic 32:
+Words: president, people, bike, work, right, does, sure, question, really, things
+Coherence: 0.3140
+
+Topic 33:
+Words: sale, article, hell, thought, talking, instead, happened, short, mean, posted
+Coherence: 0.0000
+
+Topic 34:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 35:
+Words: sale, article, hell, thought, happened, instead, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 36:
+Words: sale, article, hell, thought, instead, talking, happened, short, mean, posted
+Coherence: 0.0000
+
+Topic 37:
+Words: sale, article, hell, thought, happened, instead, talking, short, mean, posted
+Coherence: 0.0000
+
+Topic 38:
+Words: games, short, game, place, days, season, rest, play, cost, year
+Coherence: 0.9428
+
+Topic 39:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 40:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 41:
+Words: people, right, israel, government, state, jews, rights, does, control, states
+Coherence: 0.4091
+
+Topic 42:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 43:
+Words: bike, mean, high, really, price, work, best, example, year, means
+Coherence: 0.6388
+
+Topic 44:
+Words: sale, article, hell, thought, happened, talking, instead, short, mean, posted
+Coherence: 0.0000
+
+Topic 45:
+Words: windows, file, software, image, available, does, graphics, version, files, program
+Coherence: 0.2898
+
+Topic 46:
+Words: sale, article, hell, thought, instead, happened, talking, short, mean, posted
+Coherence: 0.0000
+
+Topic 47:
+Words: sale, article, hell, thought, happened, instead, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 48:
+Words: chip, encryption, clipper, government, people, information, mail, keys, phone, security
+Coherence: 0.3028
+
+Topic 49:
+Words: sale, article, hell, thought, instead, happened, talking, short, mean, monitor
+Coherence: 0.0000
+
+Topic 50:
+Words: sale, article, hell, thought, instead, talking, happened, mean, posted, monitor
+Coherence: 0.0000
+
+Summary Statistics:
+Average coherence: 0.1922
+Coherence std dev: 0.3713
+Duplicate topics: 34

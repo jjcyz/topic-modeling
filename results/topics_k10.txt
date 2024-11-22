@@ -1,0 +1,51 @@
+Topic Modeling Analysis Summary (K=10)
+==============================
+
+Iterations until convergence: 50
+Final log likelihood: 5.109547e-13
+
+
+Topic 1:
+Words: people, government, right, years, does, year, space, work, armenian, really
+Coherence: 0.2121
+
+Topic 2:
+Words: sale, article, hell, thought, instead, happened, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 3:
+Words: sale, article, hell, thought, talking, happened, instead, mean, short, posted
+Coherence: 0.0000
+
+Topic 4:
+Words: sale, article, hell, thought, happened, instead, talking, mean, short, posted
+Coherence: 0.0000
+
+Topic 5:
+Words: drive, scsi, disk, hard, card, power, sale, offer, does, speed
+Coherence: 0.4789
+
+Topic 6:
+Words: file, windows, program, does, software, available, mail, image, data, files
+Coherence: 0.2717
+
+Topic 7:
+Words: game, team, games, year, play, season, hockey, period, better, second
+Coherence: 0.4838
+
+Topic 8:
+Words: sale, article, hell, thought, happened, talking, instead, mean, short, posted
+Coherence: 0.0000
+
+Topic 9:
+Words: people, does, jesus, believe, right, bible, christian, point, church, life
+Coherence: 0.2764
+
+Topic 10:
+Words: lost, jews, turkish, april, american, national, book, city, home, world
+Coherence: 1.2338
+
+Summary Statistics:
+Average coherence: 0.2957
+Coherence std dev: 0.3615
+Duplicate topics: 4
